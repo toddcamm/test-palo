@@ -36,7 +36,7 @@
        "metadata": {
           "description": "Azure VM size for VM-Series"
        },
-       "defaultValue": "Standard_D4_v3"
+       "defaultValue": "Standard_DS3_v2"
     },
     "imageSku": {
        "type": "string",
