@@ -28,7 +28,7 @@
           "Standard_D3",
           "Standard_D4",
           "Standard_DS3_v2",
-          "Standard_D4_v2",
+          "Standard_D4_v3",
           "Standard_D5_v2",
           "Standard_D14_v2", 
           "Standard_A4"
@@ -36,7 +36,7 @@
        "metadata": {
           "description": "Azure VM size for VM-Series"
        },
-       "defaultValue": "Standard_DS3_v2"
+       "defaultValue": "Standard_D4_v3"
     },
     "imageSku": {
        "type": "string",
